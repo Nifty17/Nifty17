@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nifty17
-- 👀 I’m interested in Blockchain Developing.
-- 🌱 I’m currently learning Solidity(Blockchain Dev.)
-- 💞️ I’m looking to collaborate on Smart Contract projects.
+- 👀 I’m interested in Blockchain Development,MobileApp Development.
+- 🌱 I’m currently learning Solidity(Blockchain Dev.),Kotlin.
+- 💞️ I’m looking to collaborate on Smart Contract projects and AndroidApp Development.
 - 📫 Reach me at niftygames17@gmail.com
 
 <!---
