@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nifty17
-- 👀 I’m interested in Blockchain Development,MobileApp Development.
-- 🌱 I’m currently learning Solidity(Blockchain Dev.),Kotlin.
-- 💞️ I’m looking to collaborate on Smart Contract projects and AndroidApp Development.
+- 👀 I’m interested in Game Development,MobileApp Development.
+- 🌱 I’m currently working on Game Development using Unity.
+- 💞️ I’m looking to collaborate on Game Development Projects.
 - 📫 Reach me at niftygames17@gmail.com
 
 <!---
